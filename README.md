@@ -1,7 +1,6 @@
 # python3 study with fastcampus
 
-
-## 순서: 
+## 순서
 
 - [ ] 파이썬 기초
 - [ ] 웹 기본 및 프론트엔드 기초
